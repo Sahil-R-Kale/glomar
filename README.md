@@ -15,7 +15,7 @@ This repository accompanies our paper evaluating how closed-source LLMs decide w
 
 ## Method:
 
-- Global split: evaluates selective invocation based on globall translated Marathi queries.
+- Global split: evaluates selective invocation based on globally translated Marathi queries.
 - Local split: evaluates whether models detect information staleness and fetch updated answers for local Marathi queries.
 - Metrics: accuracy, calibration impact, cost per improvement, and query efficiency.
 - Models tested: Claude 4.5 Haiku and GPT-5-mini.
